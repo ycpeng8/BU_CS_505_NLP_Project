@@ -1,6 +1,6 @@
 # BU_CS_505_NLP_Project
 
-Team members: Guangyue Qiu, Guankai Sang, Yanchong Peng, Yufan Lin, Zhenghang Yin
+Team members: Guangyue Qiu, Guankai Sang, Yanchong Peng, Yufan Lin, Zhenghang Yin, Juncheng Zhang
 
 ## Task Description
 
