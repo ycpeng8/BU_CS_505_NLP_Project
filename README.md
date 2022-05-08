@@ -2,6 +2,11 @@
 
 Team members: Guangyue Qiu, Guankai Sang, Yanchong Peng, Yufan Lin, Zhenghang Yin, Juncheng Zhang
 
+## Project report and presentation slides
+
+Report: [Paper.pdf](Paper.pdf)
+Presentation Slide: [main_figure.pptx](main_figure.pptx)
+
 ## Task Description
 
 Multilingual Twitter sentiment classification. Data of English tweets annotated with their sentiment can be found in this [link](http://help.sentiment140.com/for-students/): noisy data automatically annotated with sentiment based on emojis, and in this [link](https://www.dropbox.com/s/byzr8yoda6bua1b/2017_English_final.zip?file_subpath=%2F2017_English_final%2FGOLD%2FSubtask_A): clean data annotated by human (Amazon Mechanical Turk) annotators, from SemEval sentiment analysis in Twitter (task A) – you need to download several files from 2013, 2014, 2015, and 2016. Data of Arabic tweets annotated with their sentiment can be found in this [link](https://www.dropbox.com/s/i9tkaajuq1qbgjq/2017_Arabic_train_final.zip?file_subpath=%2F2017_Arabic_train_final%2FGOLD) from SemEval sentiment analysis in Twitter (task A). Project ideas based on these datasets include: 
